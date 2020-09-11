@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LeaderBoard</string>
+    <string name="launch_image">Launch</string>
+    <string name="project_submission">Project Submission</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="project_on_github_link">Project on GITHUB (link)</string>
+    <string name="submit_button">Submit</string>
+    <string name="menu_submit_button">Submit</string>
+    <string name="text_default_message">Are you sure ?</string>
+    <string name="button_accept">Yes</string>
+    <string name="submission_failed">Submission not Successful</string>
+    <string name="submission_successful_message">Submission Successful</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
